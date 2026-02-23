@@ -17,3 +17,10 @@ A simple library management system built with Python to manage books and members
 2. Run the main program:
    ```bash
    python main.py
+
+## Key Concepts Demonstrated
+- File handling (read/write)
+- Data parsing and validation
+- Role-based access control
+- Business rule implementation (loan limits, overdue checks)
+- Modular function design
